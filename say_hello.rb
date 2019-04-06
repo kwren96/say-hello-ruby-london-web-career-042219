@@ -1,2 +1,4 @@
 # Build your say_hello method here
-method 
+def say_hello(name)
+    print "Hello "
+end 
